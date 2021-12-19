@@ -1,0 +1,2 @@
+myString <- "HelloWorld"
+print(myString)
